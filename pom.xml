@@ -309,7 +309,7 @@
     </repository>
   <repository>
         <id>sbs-pet-clinic</id>
-        <url>http://54.210.35.251:8081/repository/petclinic-repo/</url>
+        <url>http://54.210.35.251:8081/repository/petclinic-repo</url>
         <snapshots>
           <enabled>true</enabled>
         </snapshots>
@@ -318,7 +318,7 @@
 <distributionManagement>
 <snapshotRepository>
       <id>sbs-pet-clinic</id>
-      <url>http://54.210.35.251:8081/repository/petclinic-repo/</url>
+      <url>http://54.210.35.251:8081/repository/petclinic-repo</url>
     </snapshotRepository>
 </distributionManagement>
   <pluginRepositories>
